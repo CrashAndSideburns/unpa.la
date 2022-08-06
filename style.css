@@ -1,0 +1,11 @@
+body {
+    background-color: #F1C4CC;
+    margin: 0;
+}
+
+#meso {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}

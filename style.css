@@ -9,3 +9,8 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+#sitelen {
+    height: 80%;
+    max-width: 80%;
+}
